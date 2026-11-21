@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PriceWatch AI",
+  "version": "1.0.0",
+  "description": "Track prices with AI",
+  "permissions": ["activeTab", "scripting", "alarms", "tabs", "notifications", "storage"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "PriceWatch AI"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
