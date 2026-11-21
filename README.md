@@ -86,4 +86,3 @@ Chrome Extension (Manifest V3) · JavaScript · Supabase (Auth, Postgres, RLS) �
 
 ---
 
-Built for ISyE 602 (UW–Madison, Spring 2026) by a 7-person team. I designed and wrote the full codebase: UI, background checks, recommendation logic, and auth.
